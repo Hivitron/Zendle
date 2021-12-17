@@ -1,25 +1,12 @@
 {
 
  "app_version": 2,
- 
  "app_funcation": true,
- 
  "app_status": true,
- 
  "up_link": "https://play.google.com/store/apps/details?id=com.mixpaper.zendle",
- 
- "up_title": "Version 2.0.0",
- 
- "up_note": "If you would like to get all updates faster and be the first to test new features, you are welcome to use Telegram Desktop's beta version updates. The stable version is updated less frequently, but is tested better than the beta version.
- 
-• Content creators can restrict the ability to save media and forward messages from their groups and channels.
-• Clear messages in one-on-one chats from a specific day or date range.
-• Comment as one of your channels in public groups and channel comments.
-• When you request to join a community and its admin or bot-admin contacts you with a message,
- you will see which chat they are from at the top of the chat.
-• Bot-admins can now ask users to complete tasks before they are allowed to join - like accepting community rules,
- passing a test, or making a donation to the content creators.",
- 
- "up_note": false
+ "up_name": "Version 1.17.0",
+ "up_code": "Version 1.0",
+ "up_perotiy": false,
+ "up_note": "Content creators can restrict the ability to save media and forward messages from their groups and channels.\nClear messages in one-on-one chats from a specific day or date range.\n Comment as one of your channels in public groups and channel comments.\n When you request to join a community and its admin or bot-admin contacts you with a message, you will see which chat they are from at the top of the chat.\n Bot-admins can now ask users to complete tasks before they are allowed to join - like accepting community rules, passing a test, or making a donation to the content creators.
  
 }
