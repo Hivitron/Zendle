@@ -7,13 +7,15 @@
  "up_name": "1.2.0",
  "up_code": 2,
  "up_priority": false,
- "blocked_words": [
+ "blocked_words":
+ [
   "Potato",
   "Marshmello",
   "Database"
-  ],
- "blocked_users": [
+ ],
+ "blocked_users":
+ [
   "ArmanEP3",
   "joyToy"
-  ]
+ ]
 }
